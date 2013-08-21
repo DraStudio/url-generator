@@ -32,3 +32,6 @@ a:hover{
 	text-shadow: 1px 1px 0px #8d4130;
 	text-decoration: none;
 }
+.note{
+	font-size: .75em;
+}
